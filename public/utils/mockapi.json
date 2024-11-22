@@ -1,0 +1,144 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Kerala",
+      "currentTemp": 28,
+      "weatherCondition": "Rainy",
+      "highTemp": 30,
+      "lowTemp": 25,
+      "forecast": [
+        { "day": "Day 1", "temp": 29 },
+        { "day": "Day 2", "temp": 30 },
+        { "day": "Day 3", "temp": 28 }
+      ],
+      "removable": false
+    },
+    {
+      "id": 2,
+      "name": "Bangalore",
+      "currentTemp": 22,
+      "weatherCondition": "Cloudy",
+      "highTemp": 25,
+      "lowTemp": 19,
+      "forecast": [
+        { "day": "Day 1", "temp": 23 },
+        { "day": "Day 2", "temp": 24 },
+        { "day": "Day 3", "temp": 22 }
+      ],
+      "removable": false
+    },
+    {
+      "id": 3,
+      "name": "Chennai",
+      "currentTemp": 30,
+      "weatherCondition": "Humid",
+      "highTemp": 34,
+      "lowTemp": 28,
+      "forecast": [
+        { "day": "Day 1", "temp": 31 },
+        { "day": "Day 2", "temp": 32 },
+        { "day": "Day 3", "temp": 30 }
+      ],
+      "removable": false
+    },
+    {
+      "id": 4,
+      "name": "Pune",
+      "currentTemp": 20,
+      "weatherCondition": "Partly Cloudy",
+      "highTemp": 23,
+      "lowTemp": 18,
+      "forecast": [
+        { "day": "Day 1", "temp": 21 },
+        { "day": "Day 2", "temp": 22 },
+        { "day": "Day 3", "temp": 20 }
+      ],
+      "removable": false
+    },
+    {
+      "id": 5,
+      "name": "Delhi",
+      "currentTemp": 24,
+      "weatherCondition": "Sunny",
+      "highTemp": 29,
+      "lowTemp": 19,
+      "forecast": [
+        { "day": "Day 1", "temp": 25 },
+        { "day": "Day 2", "temp": 28 },
+        { "day": "Day 3", "temp": 24 }
+      ],
+      "removable": false
+    },
+    {
+      "id": 6,
+      "name": "Mumbai",
+      "currentTemp": 29,
+      "weatherCondition": "Humid",
+      "highTemp": 33,
+      "lowTemp": 26,
+      "forecast": [
+        { "day": "Day 1", "temp": 30 },
+        { "day": "Day 2", "temp": 31 },
+        { "day": "Day 3", "temp": 29 }
+      ],
+      "removable": true
+    },
+    {
+      "id": 7,
+      "name": "Hyderabad",
+      "currentTemp": 27,
+      "weatherCondition": "Sunny",
+      "highTemp": 32,
+      "lowTemp": 24,
+      "forecast": [
+        { "day": "Day 1", "temp": 28 },
+        { "day": "Day 2", "temp": 29 },
+        { "day": "Day 3", "temp": 27 }
+      ],
+      "removable": true
+    },
+    {
+      "id": 8,
+      "name": "Kolkata",
+      "currentTemp": 27,
+      "weatherCondition": "Rainy",
+      "highTemp": 31,
+      "lowTemp": 24,
+      "forecast": [
+        { "day": "Day 1", "temp": 28 },
+        { "day": "Day 2", "temp": 30 },
+        { "day": "Day 3", "temp": 27 }
+      ],
+      "removable": true
+    },
+    {
+      "id": 9,
+      "name": "Jaipur",
+      "currentTemp": 26,
+      "weatherCondition": "Sunny",
+      "highTemp": 32,
+      "lowTemp": 22,
+      "forecast": [
+        { "day": "Day 1", "temp": 28 },
+        { "day": "Day 2", "temp": 30 },
+        { "day": "Day 3", "temp": 27 }
+      ],
+      "removable": true
+    },
+    {
+      "id": 10,
+      "name": "Ahmedabad",
+      "currentTemp": 30,
+      "weatherCondition": "Hot",
+      "highTemp": 35,
+      "lowTemp": 25,
+      "forecast": [
+        { "day": "Day 1", "temp": 32 },
+        { "day": "Day 2", "temp": 34 },
+        { "day": "Day 3", "temp": 30 }
+      ],
+      "removable": true
+    }
+  ]
+}
